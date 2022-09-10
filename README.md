@@ -81,19 +81,21 @@ Also added:
 </details>
 
 
-## Notes
-All tweaks were injected using [Azule](https://github.com/Al4ise/Azule).
-
-All tweaks were obtained within their GitHub repos or by fetching the .debs via their cydia repos using [cydownload](https://github.com/borishonman/cydownload).
-
-Nothing besides the files within each tweak's folder were used to generate the .ipas. If you have any doubt about the content in them, rename the file to .zip, decompress it and look for yourself.
-
-Developers of these tweaks, if you don't want me to host an .ipa with your tweak injected, contact me and I'll delete it immediately.
-
-
 ## Credits
 - [Al4ise](https://github.com/Al4ise) for [Azule](https://github.com/Al4ise/Azule). Couldn't find any links to support them, will update if I do.
 - [borishonman](https://github.com/borishonman) for [cydownload](https://github.com/borishonman/cydownload). Couldn't find any links to support them, will update if I do.
 - [BandarHL](https://github.com/BandarHL) for [BHTwitter](https://github.com/BandarHL/BHTwitter) and [OpenTwitterSafariExtension](https://github.com/BandarHL/OpenTwitterSafariExtension). Support the developer via [PayPal](https://www.paypal.com/paypalme/BandarHL).
 - [hashbang](https://github.com/hbang) for [libcephei](https://github.com/hbang/libcephei). Support the developer via [PayPal](https://hashbang.productions/donate/).
 - All jailbreak developers and community for making all this possible.
+
+
+## Notes
+ALL CREDITS GOES TO THE DEVELOPERS OF THE TWEAKS, SUPPORT THEM. The only thing I'm doing is injecting the updated tweaks into decrypted updated .ipas so that unexperienced users can sideload them easily.
+
+Developers of these tweaks, if you don't want me to host an .ipa with your tweak injected, contact me and I'll delete it immediately.
+
+All tweaks were injected using [Azule](https://github.com/Al4ise/Azule).
+
+All tweaks were obtained within their GitHub repos or by fetching the .debs via their cydia repos using [cydownload](https://github.com/borishonman/cydownload).
+
+Nothing besides the files within each tweak's folder were used to generate the .ipas. If you have any doubt about the content in them, rename the file to .zip, decompress it and look for yourself.
