@@ -16,163 +16,100 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 | :---: | :---: | :---: | :---: |
 | Twitter | 9.26| 3.0 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/BHTwitter3.0-Twitter9.26/Twitter9.26_BHTwitter3.0.ipa) |
 
-Also added: 
+**Also added:** 
 - Open Twitter Safari Extension (allow it in Safari settings and open Twitter links inside the app via the share menu);
 - libcephei (tweak dependency).
 
-
 <details>
-  <summary>Features</summary>
+  <summary>**Show features.**</summary>
 
 - Download Videos (even if account private).
-
 - Custom Tab Bar
-
 - Video zoom feature.
-
 - No history feature.
-
 - Hide topics tweet feature.
-
 - Disable video layer caption.
-
 - Padlock.
-
 - Font changer.
-
 - Enable the new UI of DM search.
-
 - Auto load photos in highest quality feature.
-
 - Undo tweet feature.
-
 - Theme (like Twitter Bule).
-
 - Twitter Circle feature.
-
 - Copying profile information feature.
-
 - Save tweet as an image.
-
 - Hide spaces bar.
-
 - Disable RTL.
-
 - Always open in Safari.
-
 - Translate bio.
-
 - Reader mode feature.
-
 - Disable new tweet style (A.K.A edge to edge tweet)
-
 - Enable voice tweet and voice message in DM.
-
 - Hide promoted tweet from the timeline.
-
 - Confirm alert when hit the tweet button.
-
 - Confirm alert when hit like button.
-
 - Confirm alert when hit follow button.
-
 - FLEX for debugging.
 
 </details>
 
+---
 
-### Spotilife + Sposify
+### Spotilife & Sposify
 
 | App | App Version | Tweak Versions | Download |
 | :---: | :---: | :---: | :---: |
-| Spotify | 8.5.60 | 1.8 ; 8.5.52 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Spotilife1.8-Sposify8.5.52-Spotify8.5.60/Spotify8.5.60_Spotilife1.8_Sposify8.5.52.ipa) |
+| Spotify | 8.5.60 | 1.8 & 8.5.52 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Spotilife1.8-Sposify8.5.52-Spotify8.5.60/Spotify8.5.60_Spotilife1.8_Sposify8.5.52.ipa) |
 
-Note: Using Spotify v8.5.60 which seems to be the latest version to fully supported injected tweaks, including very high audio quality streaming.
+**Note:** Using Spotify v8.5.60 which seems to be the latest version to fully supported injected tweaks, including very high audio quality streaming.
 
 <details>
-  <summary>Spotilife features</summary>
+  <summary>**Show Spotilife features.**</summary>
 
 - Unlimited skips.
-
 - No ads.
-
 - Very high quality streaming.
-
 - Import songs.
-
 - Enable or disable playlist artwork.
-
 - Enable Now Playing Shows mode.
-
 - Import local playlists.
-
 - Clear Spotify's cache.
 
 </details>
 
 <details>
-  <summary>Sposify features</summary>
+  <summary>**Show Sposify features.**</summary>
   
 - Enable or disable connect access button.
-
 - Import your music.
-
 - No burger menu icon on lockscreen.
-
 - Verified profile badge.
-
 - Enable or disable voice search.
-
 - Enable or disable what's new section.
-
 - Enable artists & playlists old interface.
-
 - Enable create playlist new interface.
-
 - Disable add songs button.
-
 - Disable play button.
-
 - Disable recommended songs section.
-
 - Disable swipeable actions.
-
 - Hide create playlist.
-
 - No shuffle on big play button.
-
 - Open canvas playlist.
-
 - Show album & artist recommendations.
-
 - True shuffle.
-
 - View artists offline.
-
 - Align text to top on now playing view.
-
 - Auto hide duration labels on now playing view.
-
 - Blackout mode on now playing view.
-
 - Canvas choice button on now playing view.
-
 - Canvas tap on now playing view.
-
 - Car view on now playing view.
-
 - Disable Genius lyrics on now playing view.
-
 - Disable Storylines on now playing view.
-
 - Disable Canvas on now playing view.
-
 - Disable queue screen controls on now playing view.
-
 - Disable Social Listening section.
-
 - Long-press on any Canvas to save them.
-
 - Show or hide status bar.
   
 </details>
