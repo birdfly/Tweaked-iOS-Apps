@@ -129,7 +129,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 
 ## Notes
-**ALL CREDITS GOES TO THE DEVELOPERS OF THE TWEAKS, SUPPORT THEM.** The only thing I'm doing is injecting the updated tweaks into decrypted updated .ipas so that unexperienced users can sideload them easily.
+**ALL CREDITS GOES TO THE DEVELOPERS OF THE TWEAKS, SUPPORT THEM.** The only thing I'm doing is injecting the updated tweaks into .ipas so that unexperienced users can sideload them easily.
 
 Developers of these tweaks, if you don't want me to host an .ipa with your tweak injected, contact me and I'll delete it immediately.
 
