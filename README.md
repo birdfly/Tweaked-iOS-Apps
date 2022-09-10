@@ -14,7 +14,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Twitter | 9.26| 3.0 | [Link](https://www.icloud.com/iclouddrive/0eb1bO8u9vR9UJO281dQjLvxQ#Twitter9.26_BHTwitter3) |
+| Twitter | 9.26| 3.0 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/BHTwitter3.0-Twitter9.26/Twitter9.26_BHTwitter3.0.ipa) |
 
 Also added: 
 - Open Twitter Safari Extension (allow it in Safari settings and open Twitter links inside the app via the share menu);
