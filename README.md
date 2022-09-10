@@ -3,8 +3,11 @@
 ### Actively injecting requested tweaks into iOS apps and updating to latest versions.
 
 You are able to sideload these with [AltStore](https://altstore.io/), [Sideloadly](https://sideloadly.io/) or your preferred sideloading service. 
-You also should be able to permasign these on jailed 15.0-15.1.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
-Jailbroken devices should install the app from App Store and the tweak from it's repo due to the lack of a settings page with tweaks which support it and substitute/libhooker compatibility issues that may happen.  
+
+You should also be able to permasign these on jailed 15.0-15.1.1 devices using [TrollStore](https://github.com/opa334/TrollStore). _Some users are reporting issues permasigning .ipas made for sideloading, I´m looking into it and if necessary will be releasing separate .ipas to be used with TrollStore._
+
+Jailbroken devices should install the app from App Store and the tweak from it's repo due to the lack of a settings page with tweaks which support it and substitute/libhooker compatibility issues that ~~may~~ probably will happen.
+
 
 All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
@@ -21,7 +24,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 - libcephei (tweak dependency).
 
 <details>
-  <summary>**Show features.**</summary>
+  <summary>Show features.</summary>
 
 - Download Videos (even if account private).
 - Custom Tab Bar
@@ -64,7 +67,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 **Note:** Using Spotify v8.5.60 which seems to be the latest version to fully supported injected tweaks, including very high audio quality streaming.
 
 <details>
-  <summary>**Show Spotilife features.**</summary>
+  <summary>Show Spotilife features.</summary>
 
 - Unlimited skips.
 - No ads.
@@ -78,7 +81,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 </details>
 
 <details>
-  <summary>**Show Sposify features.**</summary>
+  <summary>Show Sposify features.</summary>
   
 - Enable or disable connect access button.
 - Import your music.
@@ -126,7 +129,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 
 ## Notes
-ALL CREDITS GOES TO THE DEVELOPERS OF THE TWEAKS, SUPPORT THEM. The only thing I'm doing is injecting the updated tweaks into decrypted updated .ipas so that unexperienced users can sideload them easily.
+**ALL CREDITS GOES TO THE DEVELOPERS OF THE TWEAKS, SUPPORT THEM.** The only thing I'm doing is injecting the updated tweaks into decrypted updated .ipas so that unexperienced users can sideload them easily.
 
 Developers of these tweaks, if you don't want me to host an .ipa with your tweak injected, contact me and I'll delete it immediately.
 
@@ -134,4 +137,4 @@ All tweaks were injected using [Azule](https://github.com/Al4ise/Azule).
 
 All tweaks were obtained within their GitHub repos or by fetching the .debs via their cydia repos using [cydownload](https://github.com/borishonman/cydownload).
 
-Nothing besides the files within each tweak's folder were used to generate the .ipas. If you have any doubt about the content in them, rename the file to .zip, decompress it and look for yourself.
+Everything used to generate the injected .ipas are inside each tweak's folder. **Except** from the decrypted .ipas, which are required for proper tweak injection and sideloading on jailed devices. I will decrypt them by myself once I get access to a jailbroken device or an Apple Silicon Mac. For now, I have to get them from trusted sources like [qnblackcat](https://github.com/qnblackcat/)´s [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs) and check to make sure the files are clean.
