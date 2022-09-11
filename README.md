@@ -121,6 +121,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 ## Credits
 - [Al4ise](https://github.com/Al4ise) for [Azule](https://github.com/Al4ise/Azule). Couldn't find any links to support them, will update if I do.
 - [borishonman](https://github.com/borishonman) for [cydownload](https://github.com/borishonman/cydownload). Couldn't find any links to support them, will update if I do.
+- [qnblackcat](https://github.com/qnblackcat/) for [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs). Couldn't find any links to support them, will update if I do.
 - [BandarHL](https://github.com/BandarHL) for [BHTwitter](https://github.com/BandarHL/BHTwitter) and [OpenTwitterSafariExtension](https://github.com/BandarHL/OpenTwitterSafariExtension). Support the developer via [PayPal](https://www.paypal.com/paypalme/BandarHL).
 - [hashbang](https://github.com/hbang) for [libcephei](https://github.com/hbang/libcephei). Support the developer via [PayPal](https://hashbang.productions/donate/).
 - [julioverne](https://github.com/julioverne) for [Spotilife](http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife). Support the developer via [Patreon](https://www.patreon.com/julioverne).
