@@ -117,6 +117,39 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
   
 </details>
 
+---
+
+### Rocket
+
+| App | App Version | Tweak Version | Download |
+| :---: | :---: | :---: | :---: |
+| Instagram | 243.1 | 3.7.45 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Rocket3.7.45-Instagram243.1/Instagram243.1_Rocket3.7.45.ipa) |
+
+**Note:** Using older versions of Instagram and Rocket because I couldn't get it to work on the latest, will update if I figure it out.
+
+<details>
+  <summary>Show features.</summary>
+
+- Save any photo to Camera Roll.
+- Save any video to Camera Roll.
+- Hold down on an image to view high resolution version of it.
+- Hold down on a video to view high resolution version of it.
+- Double tap or hold on a profile image to view it in full screen.
+- Mute and Unmute users from home and activity feed.
+- Hide sponsored posts.
+- Show following status on user profile.
+- Share images using default iOS share sheet.
+- View direct messages without notifying sender.
+- Easily toggle feed layout between grid and list with a press of a button.
+- Confirmation alert when you double-tap a post to like.
+- Tap times inside a post cell to show full timestamp.
+- View stories without marking them as seen.
+- Download photos and videos from stories.
+- Manually mark stories as seen.
+- Show entire gallery instead of last 24 hours in story maker.
+
+</details>
+
 
 ## Credits
 - [Al4ise](https://github.com/Al4ise) for [Azule](https://github.com/Al4ise/Azule). Couldn't find any links to support them, will update if I do.
@@ -126,6 +159,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 - [hashbang](https://github.com/hbang) for [libcephei](https://github.com/hbang/libcephei). Support the developer via [PayPal](https://hashbang.productions/donate/).
 - [julioverne](https://github.com/julioverne) for [Spotilife](http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife). Support the developer via [Patreon](https://www.patreon.com/julioverne).
 - [aesthyrica](https://github.com/aesthyrica) for [Sposify](https://repo.dynastic.co/package/com.spos). Couldn't find any links to support them, will update if I do.
+- [alfhaily](https://twitter.com/freemanrepo) for [Rocket](https://apt.alfhaily.me/depictions/4EYOXC). Couldn't find any links to support them, will update if I do.
 - All jailbreak developers and community for making all this possible.
 
 
