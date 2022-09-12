@@ -150,7 +150,31 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 </details>
 
+---
 
+### Lizard
+
+| App | App Version | Tweak Version | Download |
+| :---: | :---: | :---: | :---: |
+| Reddit | 2021.12.0 | 1.9 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Lizard1.9-Reddit2021.12.0/Reddit2021.12.0_Lizard1.9.ipa) |
+
+**Note:** Using lastest version of Reddit compatible with the tweak.
+
+<details>
+  <summary>Show features.</summary>
+  
+ - Hide awards
+ - Show NSFW posts
+ - Hide sponsored posts and comments
+ - Download the highest quality video with audio
+ - Download one or more images in gallery posts
+ - Supports video posts with Imgur, gyfcat and more
+ - Undo scrolling if status bar is tapped
+ - Secure authentication
+
+  </details>
+  
+  
 ## Credits
 - [Al4ise](https://github.com/Al4ise) for [Azule](https://github.com/Al4ise/Azule). Couldn't find any links to support them, will update if I do.
 - [borishonman](https://github.com/borishonman) for [cydownload](https://github.com/borishonman/cydownload). Couldn't find any links to support them, will update if I do.
@@ -161,6 +185,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 - [aesthyrica](https://github.com/aesthyrica) for [Sposify](https://repo.dynastic.co/package/com.spos). Couldn't find any links to support them, will update if I do.
 - [alfhaily](https://twitter.com/freemanrepo) for [Rocket](https://apt.alfhaily.me/depictions/4EYOXC). Couldn't find any links to support them, will update if I do.
 - [opa334](https://github.com/opa334) for [IGSideloadFix](https://github.com/opa334/IGSideloadFix). Support the developer via [PayPal](http://opa334.github.io/donate.html).
+- [LemaMichael](https://github.com/LemaMichael) for [Lizard](http://cydia.saurik.com/package/com.lema.lizard). Couldn't find any links to support them, will update if I do.
 - All jailbreak developers and community for making all this possible.
 
 
