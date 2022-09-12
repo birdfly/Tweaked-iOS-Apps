@@ -125,7 +125,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 | :---: | :---: | :---: | :---: |
 | Instagram | 243.1 | 3.7.45 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Rocket3.7.45-Instagram243.1/Instagram243.1_Rocket3.7.45.ipa) |
 
-**Note:** Using older versions of Instagram and Rocket because I couldn't get it to work on the latest, will update if I figure it out.
+**Note:** Using older versions of Instagram and Rocket because I couldn't get it to work on the latest, will update if I figure it out. Using [opa334](https://github.com/opa334)'s [IGSideloadfix](https://github.com/opa334/IGSideloadFix).
 
 <details>
   <summary>Show features.</summary>
@@ -163,29 +163,53 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 <details>
   <summary>Show features.</summary>
   
- - Hide awards
- - Show NSFW posts
- - Hide sponsored posts and comments
- - Download the highest quality video with audio
- - Download one or more images in gallery posts
- - Supports video posts with Imgur, gyfcat and more
- - Undo scrolling if status bar is tapped
- - Secure authentication
+ - Hide awards.
+ - Show NSFW posts.
+ - Hide sponsored posts and comments.
+ - Download the highest quality video with audio.
+ - Download one or more images in gallery posts.
+ - Supports video posts with Imgur, gyfcat and more.
+ - Undo scrolling if status bar is tapped.
+ - Secure authentication.
 
   </details>
+  
+  ---
+  
+  ### Wolf
+
+| App | App Version | Tweak Version | Download |
+| :---: | :---: | :---: | :---: |
+| Facebook | 381.0 | 2.1 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Wolf2.1-Facebook381.0/Facebook381.0_Wolf2.1.ipa) |
+
+**Note:** Using qnblackcat's FBSideloadFix.
+
+<details>
+  <summary>Show features.</summary>
+  
+- Disable marking messages as seen.
+- Disable typing status in messages.
+- No feed ads.
+- Disable marking stories.
+- Disable auto-advance in stories.
+- Save Story images and videos.
+- No story ads.
+- Save Feed videos by long-pressing the video.
+  
+</details>
   
   
 ## Credits
 - [Al4ise](https://github.com/Al4ise) for [Azule](https://github.com/Al4ise/Azule). Couldn't find any links to support them, will update if I do.
 - [borishonman](https://github.com/borishonman) for [cydownload](https://github.com/borishonman/cydownload). Couldn't find any links to support them, will update if I do.
-- [qnblackcat](https://github.com/qnblackcat/) for [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs). Couldn't find any links to support them, will update if I do.
+- [qnblackcat](https://github.com/qnblackcat/) for [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs) and [FBSideloadFix](https://github.com/qnblackcat/FBSideloadfix). Couldn't find any links to support them, will update if I do.
 - [BandarHL](https://github.com/BandarHL) for [BHTwitter](https://github.com/BandarHL/BHTwitter) and [OpenTwitterSafariExtension](https://github.com/BandarHL/OpenTwitterSafariExtension). Support the developer via [PayPal](https://www.paypal.com/paypalme/BandarHL).
 - [hashbang](https://github.com/hbang) for [libcephei](https://github.com/hbang/libcephei). Support the developer via [PayPal](https://hashbang.productions/donate/).
 - [julioverne](https://github.com/julioverne) for [Spotilife](http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife). Support the developer via [Patreon](https://www.patreon.com/julioverne).
 - [aesthyrica](https://github.com/aesthyrica) for [Sposify](https://repo.dynastic.co/package/com.spos). Couldn't find any links to support them, will update if I do.
 - [alfhaily](https://twitter.com/freemanrepo) for [Rocket](https://apt.alfhaily.me/depictions/4EYOXC). Couldn't find any links to support them, will update if I do.
 - [opa334](https://github.com/opa334) for [IGSideloadFix](https://github.com/opa334/IGSideloadFix). Support the developer via [PayPal](http://opa334.github.io/donate.html).
-- [LemaMichael](https://github.com/LemaMichael) for [Lizard](http://cydia.saurik.com/package/com.lema.lizard). Couldn't find any links to support them, will update if I do.
+- [LemaMichael](https://github.com/LemaMichael) for [Lizard](http://cydia.saurik.com/package/com.lema.lizard) and [Wolf](http://cydia.saurik.com/package/com.lema.wolf/). Couldn't find any links to support them, will update if I do.
 - All jailbreak developers and community for making all this possible.
 
 
