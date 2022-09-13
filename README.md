@@ -64,7 +64,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 | :---: | :---: | :---: | :---: |
 | Spotify | 8.5.60 | 1.8 & 8.5.52 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Spotilife1.8-Sposify8.5.52-Spotify8.5.60/Spotify8.5.60_Spotilife1.8_Sposify8.5.52.ipa) |
 
-**Note:** Using Spotify v8.5.60 which seems to be the latest version to fully supported injected tweaks, including very high audio quality streaming.
+**Note:** Using Spotify v8.5.60 which seems to be the latest version to fully support injected tweaks, including very high audio quality streaming.
 
 <details>
   <summary>Show Spotilife features.</summary>
@@ -234,7 +234,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 
 ## Notes
-**ALL CREDITS GOES TO THE DEVELOPERS OF THE TWEAKS, SUPPORT THEM.** The only thing I'm doing is injecting the updated tweaks into .ipas so that unexperienced users can sideload them easily.
+**ALL CREDITS GOES TO THE DEVELOPERS OF THE TWEAKS, SUPPORT THEM.** The only thing I'm doing is injecting the tweaks into .ipas so that unexperienced users can sideload them easily.
 
 Developers of these tweaks, if you don't want me to host an .ipa with your tweak injected, contact me and I'll delete it immediately.
 
@@ -242,4 +242,4 @@ All tweaks were injected using [Azule](https://github.com/Al4ise/Azule).
 
 All tweaks were obtained within their GitHub repos or by fetching the .debs via their cydia repos using [cydownload](https://github.com/borishonman/cydownload).
 
-Everything used to generate the injected .ipas are inside each tweak's folder. **Except** from the decrypted .ipas, which are required for proper tweak injection and sideloading on jailed devices. I will decrypt them by myself once I get access to a jailbroken device or an Apple Silicon Mac. For now, I have to get them from trusted sources like [qnblackcat](https://github.com/qnblackcat/)´s [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs) and check to make sure the files are clean.
+Everything used to generate the injected .ipas are inside each tweak's folder. **Except from the decrypted .ipas**, which are required for proper tweak injection and sideloading on jailed devices. I will decrypt them by myself once I get access to a jailbroken device or an Apple Silicon Mac. For now, I have to get them from trusted sources like [qnblackcat](https://github.com/qnblackcat/)´s [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs) and check to make sure the files are clean.
