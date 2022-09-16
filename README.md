@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-### Actively injecting requested tweaks into iOS apps and updating to latest versions.
+### Tweaks injected into sideloadeable iOS apps.
 
 You are able to sideload these with [AltStore](https://altstore.io/), [Sideloadly](https://sideloadly.io/) or your preferred sideloading service. 
 
