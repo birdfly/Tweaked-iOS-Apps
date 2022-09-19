@@ -152,6 +152,46 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 ---
 
+### Rhino
+
+| App | App Version | Tweak Version | Download |
+| :---: | :---: | :---: | :---: |
+| Instagram | 187.0 | 3.8.1 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Rhino3.8.1-Instagram187.0/Instagram187.0_Rhino3.8.1.ipa) |
+
+**Note:** Using latest versions of Rhino and Instagram that seems to make every feature of the tweak work properly and doesn't need to use opa334's IGSideloadfix.
+
+<details>
+  <summary>Show features.</summary>
+
+- Download Reels.
+- Download feed images and videos.
+- View all user's profile image.
+- Determine if users are following you.
+- Download images and videos in inbox.
+- View disappearing photos/videos for an unlimited duration.
+- Download story images and videos.
+- Download Live Videos.
+- Disable marking stories as seen.
+- Hide Live chats during live streams.
+- No story ads.
+- This tweak downloads all images and videos of the highest quality. Configure options from Settings.
+
+
+**PRO ~~paid~~ features only.**
+- View unsent messages.
+- Download all user's posts.
+- Filter user's posts.
+- Like confirmation.
+- Haptic feedback.
+- Auto Like Reels.
+- Auto Follow users in the Reels explore page.
+- Quickly approve Follow Requests and Suggested Users.
+- Add an extra layer of security with Face ID/Touch ID to view the Instagram App.
+
+</details>
+
+---
+
 ### Lizard
 
 | App | App Version | Tweak Version | Download |
@@ -227,7 +267,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 - [opa334](https://github.com/opa334) for [IGSideloadFix](https://github.com/opa334/IGSideloadFix). Support the developer via [PayPal](http://opa334.github.io/donate.html).
 
 
-- [LemaMichael](https://github.com/LemaMichael) for [Lizard](http://cydia.saurik.com/package/com.lema.lizard) and [Wolf](http://cydia.saurik.com/package/com.lema.wolf/). Couldn't find any links to support them, will update if I do.
+- [LemaMichael](https://github.com/LemaMichael) for [Rhino](http://cydia.saurik.com/package/com.lema.michael.rhino/), [Lizard](http://cydia.saurik.com/package/com.lema.lizard) and [Wolf](http://cydia.saurik.com/package/com.lema.wolf/). Couldn't find any links to support them, will update if I do.
 
 
 - All jailbreak developers and community for making all this possible.
