@@ -11,6 +11,10 @@ Jailbroken devices should install the app from App Store and the tweak from it's
 
 All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
+---
+
+## [Check out my uYouPlus fork](https://github.com/lucasnasc04/uYouPlus).
+
 
 ## Tweaks
 ### BHTwitter
