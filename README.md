@@ -13,8 +13,9 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 ---
 
-## [Check out my uYouPlus fork](https://github.com/lucasnasc04/uYouPlus).
+### You may want to check out my [uYouPlus fork](https://github.com/lucasnasc04/uYouPlus). Very cool stuff. I mean it.
 
+---
 
 ## Tweaks
 ### BHTwitter
