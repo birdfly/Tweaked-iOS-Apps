@@ -221,11 +221,11 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
   
   ---
   
-  ### Wolf
+### Wolf
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Facebook | 381.0 | 2.1 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Wolf2.1-Facebook381.0/Facebook381.0_Wolf2.1.ipa) |
+| Facebook | 386.0 | 2.1 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Wolf2.1-Facebook386.0/Facebook386.0_Wolf2.1.ipa) |
 
 **Note:** Using [qnblackcat](https://github.com/qnblackcat/)'s [FBSideloadFix](https://github.com/qnblackcat/FBSideloadfix).
 
