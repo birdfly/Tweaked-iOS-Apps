@@ -26,13 +26,13 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 **Also added:** 
 - libcephei (tweak dependency).
-- Open Twitter Safari Extension (allow it in Safari settings and open Twitter links inside the app via the share menu);
+- Open Twitter Safari Extension (allow it in Safari settings and open Twitter links inside the app via the share menu).
 
 <details>
   <summary>Show features.</summary>
 
 - Download Videos (even if account private).
-- Custom Tab Bar
+- Custom Tab Bar.
 - Video zoom feature.
 - No history feature.
 - Hide topics tweet feature.
