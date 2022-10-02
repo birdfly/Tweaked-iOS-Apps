@@ -22,11 +22,11 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Twitter | 9.26| 3.0 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/BHTwitter3.0-Twitter9.26/Twitter9.26_BHTwitter3.0.ipa) |
+| Twitter | 9.30 | 3.1 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/BHTwitter3.1-Twitter9.30/Twitter9.30_BHTwitter3.1.ipa) |
 
 **Also added:** 
-- Open Twitter Safari Extension (allow it in Safari settings and open Twitter links inside the app via the share menu);
 - libcephei (tweak dependency).
+- Open Twitter Safari Extension (allow it in Safari settings and open Twitter links inside the app via the share menu);
 
 <details>
   <summary>Show features.</summary>
@@ -51,7 +51,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 - Always open in Safari.
 - Translate bio.
 - Reader mode feature.
-- Disable new tweet style (A.K.A edge to edge tweet)
+- Disable new tweet style (A.K.A edge to edge tweet).
 - Enable voice tweet and voice message in DM.
 - Hide promoted tweet from the timeline.
 - Confirm alert when hit the tweet button.
