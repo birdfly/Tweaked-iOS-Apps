@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-### Tweaks injected into sideloadeable iOS apps.
+**Tweaks injected into sideloadeable iOS apps.**
 
 You are able to sideload these with [AltStore](https://altstore.io/), [Sideloadly](https://sideloadly.io/) or your preferred sideloading service. 
 
@@ -13,12 +13,26 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 ---
 
-### You may want to check out my [uYouPlus fork](https://github.com/lucasnasc04/uYouPlus). Very cool stuff. I mean it.
+**You may want to check out my [uYouPlus fork](https://github.com/lucasnasc04/uYouPlus). Very cool stuff. I mean it.**
 
 ---
 
-## Tweaks
-### BHTwitter
+# Table of contents
+- [Tweaks](#tweaks)
+    - [BHTwitter](#bhtwitter)
+    - [Spotilife & Sposify](#spotilife--sposify)
+    - [Rocket](#rocket)
+    - [Rhino](#rhino)
+    - [Lizard](#lizard)
+    - [Wolf](#wolf)
+    - [MyFitnessPal Premium Unlock](#myfitnesspal-premium-unlock)
+- [Credits](#credits)
+- [Notes](#notes)
+
+---
+
+# Tweaks
+## BHTwitter
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
@@ -63,7 +77,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 ---
 
-### Spotilife & Sposify
+## Spotilife & Sposify
 
 | App | App Version | Tweak Versions | Download |
 | :---: | :---: | :---: | :---: |
@@ -124,7 +138,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 ---
 
-### Rocket
+## Rocket
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
@@ -132,8 +146,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 **Note:** Using [opa334](https://github.com/opa334)'s [IGSideloadfix](https://github.com/opa334/IGSideloadFix).
 
-**Also added:** 
-- RocketBootstrap (tweak dependency).
+**Also added:** RocketBootstrap (tweak dependency).
 
 <details>
   <summary>Show features.</summary>
@@ -160,7 +173,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 ---
 
-### Rhino
+## Rhino
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
@@ -200,7 +213,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 ---
 
-### Lizard
+## Lizard
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
@@ -224,7 +237,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
   
   ---
   
-### Wolf
+## Wolf
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
@@ -248,7 +261,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
   
   ---
   
-### MyFitnessPal Premium Unlock
+## MyFitnessPal Premium Unlock
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
@@ -263,8 +276,9 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
   
 </details>
 
+---
   
-## Credits
+# Credits
 - [Al4ise](https://github.com/Al4ise) for [Azule](https://github.com/Al4ise/Azule). Couldn't find any links to support them, will update if I do.
 
 
@@ -310,7 +324,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 - All jailbreak developers and community for making all this possible.
 
 
-## Notes
+# Notes
 **ALL CREDITS GOES TO THE DEVELOPERS OF THE TWEAKS, SUPPORT THEM.** The only thing I'm doing is injecting the tweaks into .ipas so that unexperienced users can sideload them easily.
 
 Developers of these tweaks, if you don't want me to host an .ipa with your tweak injected, contact me and I'll delete it immediately.
