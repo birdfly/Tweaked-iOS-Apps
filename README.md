@@ -25,8 +25,8 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 | Twitter | 9.30 | 3.1 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/BHTwitter3.1-Twitter9.30/Twitter9.30_BHTwitter3.1.ipa) |
 
 **Also added:** 
-- libcephei (tweak dependency).
-- Open Twitter Safari Extension (allow it in Safari settings and open Twitter links inside the app via the share menu).
+- [libcephei](https://github.com/hbang/libcephei) (tweak dependency).
+- [OpenTwitterSafariExtension](https://github.com/BandarHL/OpenTwitterSafariExtension) (allow it in Safari settings and open Twitter links inside the app via the share menu).
 
 <details>
   <summary>Show features.</summary>
@@ -128,9 +128,12 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Instagram | 243.1 | 3.7.45 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Rocket3.7.45-Instagram243.1/Instagram243.1_Rocket3.7.45.ipa) |
+| Instagram | 254.0 | 3.8.0 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Rocket3.8.0-Instagram254.0/Instagram254.0_Rocket3.8.0.ipa) |
 
-**Note:** Using older versions of Instagram and Rocket because I couldn't get it to work on the latest, will update if I figure it out. Using [opa334](https://github.com/opa334)'s [IGSideloadfix](https://github.com/opa334/IGSideloadFix).
+**Note:** Using [opa334](https://github.com/opa334)'s [IGSideloadfix](https://github.com/opa334/IGSideloadFix).
+
+**Also added:** 
+- RocketBootstrap (tweak dependency).
 
 <details>
   <summary>Show features.</summary>
@@ -163,7 +166,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 | :---: | :---: | :---: | :---: |
 | Instagram | 187.0 | 3.8.1 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Rhino3.8.1-Instagram187.0/Instagram187.0_Rhino3.8.1.ipa) |
 
-**Note:** Using latest versions of Rhino and Instagram that seems to make every feature of the tweak work properly and doesn't need to use opa334's IGSideloadfix.
+**Note:** Using latest versions of Rhino and Instagram that seems to make every feature of the tweak work properly and doesn't need to use [opa334](https://github.com/opa334)'s [IGSideloadfix](https://github.com/opa334/IGSideloadFix).
 
 <details>
   <summary>Show features.</summary>
@@ -283,7 +286,10 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 - [aesthyrica](https://github.com/aesthyrica) for [Sposify](https://repo.dynastic.co/package/com.spos). Couldn't find any links to support them, will update if I do.
 
 
-- [alfhaily](https://twitter.com/freemanrepo) for [Rocket](https://apt.alfhaily.me/depictions/4EYOXC). Couldn't find any links to support them, will update if I do.
+- [alfhaily](https://twitter.com/freemanrepo) for [Rocket](https://apt.alfhaily.me/depictions/4EYOXC). Support the developer by upgrading to Rocket Pro.
+
+
+- [rpetrich](https://github.com/rpetrich/) for [RocketBootstrap](https://cydia.saurik.com/package/com.rpetrich.rocketbootstrap/). Couldn't find any links to support them, will update if I do.
 
 
 - [opa334](https://github.com/opa334) for [IGSideloadFix](https://github.com/opa334/IGSideloadFix). Support the developer via [PayPal](http://opa334.github.io/donate.html).
