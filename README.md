@@ -243,6 +243,23 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
   
 </details>
   
+  ---
+  
+### MyFitnessPal Premium Unlock
+
+| App | App Version | Tweak Version | Download |
+| :---: | :---: | :---: | :---: |
+| MyFitnessPal | 22.19.0 | ∞ | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/MFPPremiumUnlock22.19.0/MyFitnessPal22.19.0_MFPPremiumUnlock.ipa) |
+
+**Note:** Using latest version of MyFitnessPal's decrypted .ipa I was able to find.
+
+<details>
+  <summary>Show features.</summary>
+  
+- Premium features unlocked.
+  
+</details>
+
   
 ## Credits
 - [Al4ise](https://github.com/Al4ise) for [Azule](https://github.com/Al4ise/Azule). Couldn't find any links to support them, will update if I do.
@@ -251,7 +268,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 - [borishonman](https://github.com/borishonman) for [cydownload](https://github.com/borishonman/cydownload). Couldn't find any links to support them, will update if I do.
 
 
-- [qnblackcat](https://github.com/qnblackcat/) for [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs) and [FBSideloadFix](https://github.com/qnblackcat/FBSideloadfix). Couldn't find any links to support them, will update if I do.
+- [qnblackcat](https://github.com/qnblackcat/) for [FBSideloadFix](https://github.com/qnblackcat/FBSideloadfix) and [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs). Couldn't find any links to support them, will update if I do.
 
 
 - [BandarHL](https://github.com/BandarHL) for [BHTwitter](https://github.com/BandarHL/BHTwitter) and [OpenTwitterSafariExtension](https://github.com/BandarHL/OpenTwitterSafariExtension). Support the developer via [PayPal](https://www.paypal.com/paypalme/BandarHL).
@@ -275,6 +292,15 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 - [LemaMichael](https://github.com/LemaMichael) for [Rhino](http://cydia.saurik.com/package/com.lema.michael.rhino/), [Lizard](http://cydia.saurik.com/package/com.lema.lizard) and [Wolf](http://cydia.saurik.com/package/com.lema.wolf/). Couldn't find any links to support them, will update if I do.
 
 
+- [TheArmKing](https://github.com/TheArmKing) for [MyFitnessPal Premium Unlock](https://thearmking.xyz). Support the developer via [Buy Me a Coffee](https://www.buymeacoffee.com/therealarmking).
+
+
+- [iOSGods](https://iosgods.com/) for [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us). Support the developer by being a [ViP member](https://iosgods.com/subscriptions/).
+
+
+- [und3fined](https://und3fined.com) for [Decrypt IPA](https://ipa.decrypt.day). Support the developer via [Buy Me a Coffee](https://www.buymeacoffee.com/und3fined).
+
+
 - All jailbreak developers and community for making all this possible.
 
 
@@ -287,7 +313,7 @@ All tweaks were injected using [Azule](https://github.com/Al4ise/Azule).
 
 All tweaks were obtained within their GitHub repos or by fetching the .debs via their cydia repos using [cydownload](https://github.com/borishonman/cydownload).
 
-Everything used to generate the injected .ipas are inside each tweak's folder. **Except from the decrypted .ipas**, which are required for proper tweak injection and sideloading on jailed devices. I will decrypt them by myself once I get access to a jailbroken device or an Apple Silicon Mac. For now, I have to get them from trusted sources like [qnblackcat](https://github.com/qnblackcat/)´s [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs) and check to make sure the files are clean.
+Everything used to generate the injected .ipas are inside each tweak's folder. **Except from the decrypted .ipas**, which are required for proper tweak injection and sideloading on jailed devices. I will decrypt them by myself once I get access to a jailbroken device or an Apple Silicon Mac. For now, I have to get them from trusted sources like [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us), [Decrypt IPA](https://ipa.decrypt.day) and [qnblackcat](https://github.com/qnblackcat/)´s [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs).
 
 
 This project is licensed under the terms of the GNU General Public License v3.0.
