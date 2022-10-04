@@ -285,9 +285,6 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 - [borishonman](https://github.com/borishonman) for [cydownload](https://github.com/borishonman/cydownload). Couldn't find any links to support them, will update if I do.
 
 
-- [qnblackcat](https://github.com/qnblackcat/) for [FBSideloadFix](https://github.com/qnblackcat/FBSideloadfix) and [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs). Couldn't find any links to support them, will update if I do.
-
-
 - [BandarHL](https://github.com/BandarHL) for [BHTwitter](https://github.com/BandarHL/BHTwitter) and [OpenTwitterSafariExtension](https://github.com/BandarHL/OpenTwitterSafariExtension). Support the developer via [PayPal](https://www.paypal.com/paypalme/BandarHL).
 
 
@@ -321,6 +318,9 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 - [und3fined](https://und3fined.com) for [Decrypt IPA](https://ipa.decrypt.day). Support the developer via [Buy Me a Coffee](https://www.buymeacoffee.com/und3fined).
 
 
+- [qnblackcat](https://github.com/qnblackcat/) for [FBSideloadFix](https://github.com/qnblackcat/FBSideloadfix) and [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs). Couldn't find any links to support them, will update if I do.
+
+
 - All jailbreak developers and community for making all this possible.
 
 
@@ -333,7 +333,7 @@ All tweaks were injected using [Azule](https://github.com/Al4ise/Azule).
 
 All tweaks were obtained within their GitHub repos or by fetching the .debs via their cydia repos using [cydownload](https://github.com/borishonman/cydownload).
 
-Everything used to generate the injected .ipas are inside each tweak's folder. **Except from the decrypted .ipas**, which are required for proper tweak injection and sideloading on jailed devices. I will decrypt them by myself once I get access to a jailbroken device or an Apple Silicon Mac. For now, I have to get them from trusted sources like [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us), [Decrypt IPA](https://ipa.decrypt.day) and [qnblackcat](https://github.com/qnblackcat/)´s [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs).
+Everything used to generate the injected .ipas are inside each tweak's folder. **Except from the decrypted .ipas**, which are required for proper tweak injection and sideloading on jailed devices. I will decrypt them by myself once I get access to a jailbroken device or an Apple Silicon Mac. For now, I have to get them from trusted sources like [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us), [Decrypt IPA](https://ipa.decrypt.day) and [qnblackcat's](https://github.com/qnblackcat/) [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs).
 
 
 This project is licensed under the terms of the GNU General Public License v3.0.
