@@ -333,7 +333,7 @@ All tweaks were injected using [Azule](https://github.com/Al4ise/Azule).
 
 All tweaks were obtained within their GitHub repos or by fetching the .debs via their cydia repos using [cydownload](https://github.com/borishonman/cydownload).
 
-Everything used to generate the injected .ipas are inside each tweak's folder. **Except from the decrypted .ipas**, which are required for proper tweak injection and sideloading on jailed devices. I will decrypt them by myself once I get access to a jailbroken device or an Apple Silicon Mac. For now, I have to get them from trusted sources like [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us), [Decrypt IPA](https://ipa.decrypt.day) and [qnblackcat's](https://github.com/qnblackcat/) [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs).
+Everything used to generate the injected .ipas are inside each tweak's folder. **Except from the decrypted .ipas**, which are required for proper tweak injection and sideloading on jailed devices. I will decrypt them by myself once I get access to a jailbroken device or an Apple Silicon Mac. For now, I have to get them from trusted sources like [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us), [Decrypt IPA](https://ipa.decrypt.day) and [qnblackcat](https://github.com/qnblackcat/)'s [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs).
 
 
 This project is licensed under the terms of the GNU General Public License v3.0.
