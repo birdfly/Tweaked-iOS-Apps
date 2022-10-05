@@ -23,7 +23,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
     - [Spotilife & Sposify](#spotilife--sposify)
     - [Rocket](#rocket)
     - [Rhino](#rhino)
-    - [Lizard](#lizard)
+    - [Lizard & Reddit Filter](#lizard--redditfilter)
     - [Wolf](#wolf)
     - [MyFitnessPal Premium Unlock](#myfitnesspal-premium-unlock)
 - [Credits](#credits)
@@ -213,29 +213,42 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 ---
 
-## Lizard
+## Lizard & RedditFilter
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Reddit | 2021.12.0 | 1.9 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Lizard1.9-Reddit2021.12.0/Reddit2021.12.0_Lizard1.9.ipa) |
+| Reddit | 2021.12.0 | 1.9 & 1.0.5 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Lizard1.9-RedditFilter1.0.5-Reddit2021.12.0/Reddit2021.12.0_Lizard1.9_RedditFilter1.0.5.ipa) |
 
 **Note:** Using lastest version of Reddit compatible with the tweak.
 
+**Also added**: RedditFilter. You can download a version without RedditFilter [here](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Lizard1.9-Reddit2021.12.0/Reddit2021.12.0_Lizard1.9.ipa).
+
 <details>
-  <summary>Show features.</summary>
+  <summary>Show Lizard features.</summary>
   
- - Hide awards.
- - Show NSFW posts.
- - Hide sponsored posts and comments.
- - Download the highest quality video with audio.
- - Download one or more images in gallery posts.
- - Supports video posts with Imgur, gyfcat and more.
- - Undo scrolling if status bar is tapped.
- - Secure authentication.
+- Hide awards.
+- Show NSFW posts.
+- Hide sponsored posts and comments.
+- Download the highest quality video with audio.
+- Download one or more images in gallery posts.
+- Supports video posts with Imgur, gyfcat and more.
+- Undo scrolling if status bar is tapped.
+- Secure authentication.
 
   </details>
   
-  ---
+<details>
+  <summary>Show RedditFilter features.</summary>
+  
+- Filter out promoted posts from your feed.
+- Filter out recommended posts from your feed.
+- Filter out livestreams from your feed.
+- Filter out NFSW posts from your feed.
+- Configurable from in-app settings.
+
+  </details>
+  
+---
   
 ## Wolf
 
@@ -259,7 +272,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
   
 </details>
   
-  ---
+---
   
 ## MyFitnessPal Premium Unlock
 
@@ -307,6 +320,9 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 
 - [LemaMichael](https://github.com/LemaMichael) for [Rhino](http://cydia.saurik.com/package/com.lema.michael.rhino/), [Lizard](http://cydia.saurik.com/package/com.lema.lizard) and [Wolf](http://cydia.saurik.com/package/com.lema.wolf/). Couldn't find any links to support them, will update if I do.
+
+
+- [level3tjg](https://github.com/level3tjg) for [RedditFilter](https://level3tjg.me/repo/?p=com.level3tjg.redditfilter). Support the developer via [Ko-fi](https://ko-fi.com/level3tjg).
 
 
 - [TheArmKing](https://github.com/TheArmKing) for [MyFitnessPal Premium Unlock](https://thearmking.xyz). Support the developer via [Buy Me a Coffee](https://www.buymeacoffee.com/therealarmking).
