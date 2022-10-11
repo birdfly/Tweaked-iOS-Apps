@@ -4,16 +4,18 @@
 
 You are able to sideload these with [AltStore](https://altstore.io/), [Sideloadly](https://sideloadly.io/) or your preferred sideloading service. 
 
-You should also be able to permasign these on jailed 15.0-15.1.1 devices using [TrollStore](https://github.com/opa334/TrollStore). _Some users are reporting issues permasigning .ipas made for sideloading, I´m looking into it and if necessary will be releasing separate .ipas to be used with TrollStore._
-
-Jailbroken devices should install the app from App Store and the tweak from it's repo due to the lack of a settings page with tweaks which support it and substitute/libhooker compatibility issues that ~~may~~ probably will happen.
+You should also be able to install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore). _Some users are reporting issues installing .ipas made for sideloading, I´m looking into it and ~if necessary~ will be releasing separate .ipas to be installed via TrollStore._
 
 
 All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 ---
 
-**You may want to check out my [uYouPlus fork](https://github.com/lucasnasc04/uYouPlus). Very cool stuff. I mean it.**
+**I´m not getting a lot of free time lately, but I intend to update all tweaks/apps to their latest versions as soon as possible. Also, release separate .ipas to be installed via TrollStore to enable push notifications, file system access to tweaks which need it and everything else TrollStore is making it possible to do.** _ty opa334, we love u_
+
+---
+
+**You may want to check out my [uYouPlus fork](https://github.com/lucasnasc04/uYouPlus). Very cool stuff. I mean it. Always updating it. Probably because I use it daily.**
 
 ---
 
